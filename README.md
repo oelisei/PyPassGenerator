@@ -1,5 +1,5 @@
 # PyPassGenerator
-Simple and efective random password generator
+Simple and effective random password generator
 
 # Features 
 * Set up your passwords with numbers, letters and/or symbols
